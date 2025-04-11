@@ -2,7 +2,7 @@
 <p dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=996&center=falso&vCenter=falso&repeat=true&random=falso&width=435&lines=Developer" alt="Typing SVG" /></a></p>
 <p dir="auto"><a href="https://www.linkedin.com/in/rodrigo-n-carvalho/" rel="nofollow"><img src="https://camo.githubusercontent.com/18171609de2b61e2e2bd723459005170ed111bd2382e49666373da86d50e21b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3565353438653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f63616d696c617a75636368692f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-5e548e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rodrigo-n-caravlho" style="max-width: 100%;"></a></p>
 <h1 align="center">Seja Bem Vindo ao meu GitHub</h1>
-<p align="center"> Estudando Analise e Desenvolvimento de Sistemas<br>Aqui compartilho alguns projetos e minha evolução<br> Contate-me no email:carvalho.n.rodrigo369@gmail.com </p>
+<p align="center"> Formado em Analise e Desenvolvimento de Sistemas<br>Aqui compartilho alguns projetos e minha evolução<br> Contate-me no email:carvalho.n.rodrigo369@gmail.com </p>
 <br>
 <div align="center"><br>
   <a href="https://github.com/RodrigoNogC">
